@@ -670,6 +670,12 @@
 .page-message__content {
   margin: 40px 60px;
 }
+.page.page-search_empty {
+  font: 21px/25px Arial, Helvetica, sans-serif;
+  text-align: center;
+  background: transparent !important;
+  padding: 30px 0;
+}
 @font-face {
   font-family: "TextBook";
   src: url("/assets/fonts/textbook.woff") format("woff"), url("/assets/fonts/textbook.otf") format("opentype");
