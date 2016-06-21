@@ -536,7 +536,7 @@
 }
 .message,
 .message__date {
-  line-height: 30px;
+  line-height: 36px;
 }
 .message:last-child {
   border-bottom-width: 1px;
